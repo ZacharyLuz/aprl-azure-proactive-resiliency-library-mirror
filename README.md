@@ -1,5 +1,7 @@
 # Azure Proactive Resiliency Library v2 (APRL)
 
+> **Unofficial mirror:** This repository is a public mirror of Microsoft's Azure Proactive Resiliency Library v2. Original source: [Azure/Azure-Proactive-Resiliency-Library-v2](https://github.com/Azure/Azure-Proactive-Resiliency-Library-v2). Licensed under the MIT License.
+
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/Azure/Azure-Proactive-Resiliency-Library-v2.svg)](http://isitmaintained.com/project/Azure/Azure-Proactive-Resiliency-Library-v2 "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/Azure/Azure-Proactive-Resiliency-Library-v2.svg)](http://isitmaintained.com/project/Azure/Azure-Proactive-Resiliency-Library-v2 "Percentage of issues still open")
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Azure/Azure-Proactive-Resiliency-Library-v2/badge)](https://scorecard.dev/viewer/?uri=github.com/Azure/Azure-Proactive-Resiliency-Library-v2)
